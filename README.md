@@ -1,7 +1,5 @@
 # 📊 Udemy Course Analysis with ELT Stack
 
-![ELT Stack](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/ELK_Stack.png/500px-ELK_Stack.png)
-
 This project analyzes **98,000+ Udemy courses** using the **ELT stack (Elasticsearch, Logstash, Kibana)**, orchestrated with **Docker**. The goal is to gain insights into online courses by performing **data wrangling, querying, and visualization**.
 
 ---
