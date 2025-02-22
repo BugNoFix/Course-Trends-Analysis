@@ -1,0 +1,38 @@
+{
+  "dynamic": "false",
+  "properties": {
+    "title": {
+      "type": "text"
+      },
+    "is_paid": {
+      "type": "boolean"
+    },
+    "instructor_names": {
+      "type": "text"
+    },
+    "category": {
+      "type": "keyword"
+    },
+    "headline": {
+      "type": "text"
+    },
+    "num_subscribers": {
+      "type": "integer"
+    },
+    "rating": {
+      "type": "float"
+    },
+    "num_reviews": {
+      "type": "integer"
+    },
+    "instructional_level": {
+      "type": "keyword"
+    },
+    "objectives": {
+      "type": "text"
+    },
+    "curriculum": {
+      "type": "text"
+    }
+  }
+}
